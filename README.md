@@ -11,7 +11,7 @@ To use this program, download/clone the entire project to your local computer.
 * Or, if you prefer, you can use the "Download Zip" button available through the main repository page.  Downloading the project as a .ZIP file will keep the size of the download manageable.
 
 ## Requirement
-To use this project, please first download Jupyter Notebook or open this in web browser
+To use this project, please first download Jupyter Notebook or open this in web Jupyter Lab.
 
 ## Flow of the program
 ### Data Processing (Bryan)
