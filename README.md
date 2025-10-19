@@ -1,5 +1,5 @@
 # SC5002_LabAssignment2_Group10
-This is the Github repository of group 10 (Nguyen Tuan Minh, Ribbe Linnea, and Sim Yee Hang Bryan) for lab assignment 2 of module SC5002. 
+This is the Github repository of group 10 (Nguyen Tuan Minh, Ribbe Linnea, and Sim Yee Hang Bryan) for lab assignment 2 of module SC5002. The aim of this project is to predict the housing price based on some features. 
 
 ## Downloading the Project
 To use this program, download/clone the entire project to your local computer.
